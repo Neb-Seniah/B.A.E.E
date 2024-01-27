@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/home/benjamin-haines/projects/DM/B.A.E.E/.build/x86_64-unknown-linux-gnu/debug/Simple.build/master.swiftdeps"
+  },
+  "/home/benjamin-haines/projects/DM/B.A.E.E/main.swift": {
+    "dependencies": "/home/benjamin-haines/projects/DM/B.A.E.E/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.d",
+    "object": "/home/benjamin-haines/projects/DM/B.A.E.E/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.swift.o",
+    "swiftmodule": "/home/benjamin-haines/projects/DM/B.A.E.E/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main~partial.swiftmodule",
+    "swift-dependencies": "/home/benjamin-haines/projects/DM/B.A.E.E/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.swiftdeps"
+  }
+}
